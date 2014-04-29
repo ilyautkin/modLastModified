@@ -1,5 +1,18 @@
 Changelog for modLastModified.
 
-modLastModified 0.0.1
+
+0.0.4
+==============
+- Added expires to Not Modified answer
+
+0.0.3
+==============
+- Changed algorithm for if-modified-since
+
+0.0.2
+==============
+- Added Last-modified for all cases
+
+0.0.1
 ==============
 - Initial release.
